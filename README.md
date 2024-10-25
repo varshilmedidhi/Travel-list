@@ -15,11 +15,11 @@ A simple React app to help you manage your packing list for trips. Add, update, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/packing-list-app.git
+   git clone https://github.com/varshilmedidhi/Travel-list
    ```
 2. Navigate to the project directory:
    ```bash
-   cd packing-list-app
+   cd Travel-list
    ```
 3. Install dependencies:
    ```bash
