@@ -47,4 +47,4 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements
 
-Built with ❤️ by [Your Name]. Inspired by the need for better travel organization!
+Built with ❤️ by varshil medidhi. Inspired by the need for better travel organization!
